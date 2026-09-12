@@ -36,5 +36,5 @@ Botun çalışabilmesi için aşağıdaki çevre değişkenlerini (Secrets) tan�
 | `/cancel` | Etiketleme döngüsünü iptal eder. |
 
 ---
-> Geliştirici: [@SakirBey1](https://t.me/SakirBey1)
+> Geliştirici: [@thisonetete](https://t.me/thisonetete)
 > 
